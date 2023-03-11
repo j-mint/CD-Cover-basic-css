@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Tilt+Prism);
+
+body {
+    background-image: url(https://wallpapercave.com/wp/wp3719599.jpg);
+    background-size: 100%;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+    font-family: 'Tilt Prism', Impact;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 40px;
+    margin-bottom: 0px;
+    font-family: 'Tilt Prism', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    background-color: white;
+}
+
+.tracks {
+    width: 90%;
+    background-color: darkmagenta;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.track p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.track-name {
+    text-align: left;
+    width: 70%;
+}
+
+.track-artist {
+    text-align: right;
+    width: 30%;
+}
+
+.descriptor{
+    font-size:30px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+/* FOOTER */
+.author{
+    margin-bottom:5px;
+}
+a{
+    color:white;
+}
+a:visited{
+    color:white;
+}
+a:hover{
+    color:black;
+}
+
+a:active{
+    color:black;
+}
